@@ -10,4 +10,4 @@ Each chapter contains a secret hidden box that contains a key that the player mu
 > Each episode in the game is played differently, with the second level increasing the difficulty of the enemies and the obstacles more advanced. There is a special boss in each episode, where his behavior is different for the actress, where the actress is different and the behavior of each episode is different.
 
 > Included SaveGame/LoadGame Progress, Using MongoDB Bson Files.<br>
-> Built Using Unity Game Engine With C#
+<strong>Built Using Unity Game Engine With C#</strong>
